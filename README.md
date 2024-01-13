@@ -8,6 +8,7 @@
 2. run python manage.py makemigrations
 3. run python manage.py migrate
 4. and finally run python manage.py runserver to run the project on your machine
+   ##here is a preview of the website:
 
 <img width="586" alt="profile" src="https://github.com/kidusw/Django-blog-app/assets/99359601/4be91a89-c14f-4f7e-b35f-010a9a02a5a4">
 <img width="632" alt="blog-login" src="https://github.com/kidusw/Django-blog-app/assets/99359601/e15915ca-5833-41df-80e8-6370adba83f7">
